@@ -1,24 +1,13 @@
-2017/1/18 下午 12:31:27  program is running...
-2017/1/18 下午 12:31:27  Check .netframword 4 installed status : non install
-2017/1/18 下午 12:31:27  Check KB2468871 installed status : non install
-2017/1/18 下午 12:31:27  Check instIE8 installed status : non install, program is going to install process
-2017/1/18 下午 12:31:27  C:\SFC_D\ folder created
-2017/1/18 下午 12:31:31  dotNetFx40_Full_x86_x64.exe  downloaded
-2017/1/18 下午 12:31:33  NDP40-KB2468871-v2-x86.exe  downloaded
-2017/1/18 下午 12:31:34  IE8-WindowsXP-x86-CHT.exe  downloaded
-2017/1/18 下午 12:31:34  dotNetFx40_Full_x86_x64.exe is going to install
-2017/1/18 下午 12:35:47  dotNetFx40_Full_x86_x64.exe install process is finished
-2017/1/18 下午 12:35:47  NDP40-KB2468871-v2-x86.exe is going to install
-2017/1/18 下午 12:39:59  NDP40-KB2468871-v2-x86.exe install process is finished
-2017/1/18 下午 12:39:59  IE8-WindowsXP-x86-CHT.exe is going to install
-2017/1/18 下午 12:40:44  IE8-WindowsXP-x86-CHT.exe install process is finished
-2017/1/18 下午 12:40:44  Deleting source folder and files : C:\SFC_D\
-2017/1/18 下午 12:40:44  source folder and files C:\SFC_D\ are Deleted
-2017/1/18 下午 12:40:44  program is terminated
-2017/1/18 下午 01:36:44  program is running...
-2017/1/18 下午 01:36:44  Check .netframword 4 installed status : installed already
-2017/1/18 下午 01:36:44  Check KB2468871 installed status : installed already
-2017/1/18 下午 01:36:44  Check instIE8 installed status : installed already, program is going to end
-2017/1/18 下午 01:36:44  Deleting source folder and files : C:\SFC_D\
-2017/1/18 下午 01:36:44  source folder and files C:\SFC_D\ are Deleted
-2017/1/18 下午 01:36:44  program is terminated
+2017/3/17 上午 11:29:50  program is running...
+2017/3/17 上午 11:29:50  program will be activate after 6900 Seconds
+2017/3/17 上午 11:29:50  Check .netframword 4 install status : non install
+2017/3/17 上午 11:29:50  Check KB2468871 install status : non install
+2017/3/17 上午 11:29:50  C:\SFC_D\ folder created
+2017/3/17 上午 11:29:51  dotNetFx40_Full_x86_x64.exe  downloaded
+2017/3/17 上午 11:29:53  NDP40-KB2468871-v2-x64.exe  downloaded
+2017/3/17 上午 11:29:53  dotNetFx40_Full_x86_x64.exe is going to install
+2017/3/17 上午 11:34:04  Check .netframword 4 installed status : install succeed
+2017/3/17 上午 11:34:04  NDP40-KB2468871-v2-x64.exe is going to install
+2017/3/17 上午 11:37:30  Check NDP40-KB2468871-v2-x64.exe installed status : install succeed
+2017/3/17 上午 11:37:41  source folder and files C:\SFC_D\ are Deleted
+2017/3/17 上午 11:37:41  program is terminated
